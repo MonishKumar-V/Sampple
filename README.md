@@ -1,12 +1,4 @@
-Bfjwi;feklf
-      		Bablcf;qwejn’vnwe’vbwweqwdinqwfwkequfghoq;ewnjfmjqwebkufvqwelfnf
-Bebfwqlfklwnfwe;nfemwilldhqhfqefvwlfbgjsbfjbwojengkbjewlg;bwbgfejbfdbsnfnsdfbwjgfnwigbiwgnj
-Fhsflwngkwbghmdmcgengueufhewnwkemngisdogmdsngjbwieghoknrmgsdfhbweigkengnjsdghsgmksd
-
-Fnjasfnafdsf
-		sdfgwgfowjegkwkgoinwingmwmgklwngnngowwnknjergoekgkwegwm
-
-fewiofnwnfw	
+[trail.txt](https://github.com/MonishKumar-V/Sampple/files/8099853/trail.txt)
 
 
 
