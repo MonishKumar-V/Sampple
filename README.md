@@ -1,3 +1,16 @@
+Block diagram
+
+
+
+
+
+
+
+
+
+
+
+
 [trail.txt](https://github.com/MonishKumar-V/Sampple/files/8099853/trail.txt)
 
 
