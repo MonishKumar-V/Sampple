@@ -1,4 +1,7 @@
-﻿
+
+![Screenshot (1)](https://user-images.githubusercontent.com/75168665/154830209-2093a7c3-dda5-4c67-a187-d08f76b9ed9c.png)
+
+
 ## MP3 Player
 
 **User Input:** *The user can give input to the embedded device by using the buttons. They can also use mic to give input if the feature is added in the system.* 
