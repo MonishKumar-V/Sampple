@@ -1,5 +1,4 @@
-##
-Block diagram
+## Block diagram
 
 
 
