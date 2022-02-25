@@ -126,6 +126,24 @@ fewiofnwnfw
 
 
 
+| ID |
+High Level Requirements |
+Status |
+| --- | --- | --- |
+| 01 |
+It shall have the ability tosense temperature.
+ |
+To be done |
+|
+02 |
+It shall have the ability tosense temperature.
+ |
+To be done |
+
+
+
+
+
 
 
 
